@@ -1,0 +1,62 @@
+.setima-sessao {
+  height: 60vh;
+  border: 2px solid rgba(0, 0, 0, 0.185);
+  color: white;
+  text-decoration: none;
+}
+
+.setima-sessao > footer {
+  display: flex;
+  position: relative;
+  top: 120px;
+  left: 80px;
+}
+
+.setima-sessao > footer > ul > li > a {
+  text-decoration: none;
+  color: white;
+}
+
+.setima-sessao > footer > ul > li {
+  list-style-type: none;
+  margin: 12px;
+}
+
+.setima-sessao > footer > ul > li > a:hover {
+  text-decoration: underline;
+}
+
+.duvidas-footer {
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: 100;
+  position: relative;
+  top: -45px;
+  left: 298px;
+}
+.idioma-footer > select {
+  background-color: black;
+  font-size: 16px;
+  color: white;
+  position: relative;
+  top: 210px;
+  right: 810px;
+  padding: 20px;
+}
+
+.duvidas-footer > p > a {
+  font-size: 20px;
+  text-decoration: none;
+  position: relative;
+  left: 10px;
+}
+
+.duvidas-footer > p > a:hover {
+  text-decoration: underline;
+}
+#netflix-brasil-footer {
+  color: white;
+  position: relative;
+  top: 270px;
+  right: 950px;
+}

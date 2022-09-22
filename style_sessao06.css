@@ -1,0 +1,66 @@
+.sexta-sessao {
+  height: 132vh;
+  border: 2px solid black;
+}
+.sexta-sessao > h2 {
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: sans-serif;
+  position: relative;
+  top: 40px;
+}
+
+.sexta-sessao > div > h3 {
+  color: white;
+  background-color: rgba(128, 128, 128, 0.415);
+  width: 800px;
+  position: relative;
+  top: 55px;
+  left: 330px;
+  padding: 20px;
+  font-size: 27px;
+  font-weight: 200;
+  font-family: sans-serif;
+  margin: 10px;
+}
+
+.input-botao-sexta-sessao {
+  background-color: ;
+  position: relative;
+  top: 80px;
+  padding: 20px;
+}
+
+.input-botao-sexta-sessao > p {
+  background-color: black;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 100;
+  color: white;
+  text-align: center;
+}
+
+.input-botao-sexta-sessao > input {
+  width: 520px;
+  padding: 23px;
+  position: relative;
+  left: 360px;
+  font-size: 16px;
+}
+
+.botao-sexta-sessao > a {
+  font-size: 29px;
+  font-family: sans-serif;
+  background-color: red;
+  color: white;
+  text-align: center;
+  position: relative;
+  left: 940px;
+  top: 10px;
+  padding: 17px;
+  text-decoration: none;
+  height: px;
+  width: 500px;
+  border: solid 1px black;
+}

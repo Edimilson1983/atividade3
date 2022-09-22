@@ -1,0 +1,33 @@
+.segunda-sessao {
+  height: 65vh;
+  border: 2px solid black;
+  display: flex;
+}
+
+/* sessao > div > h1 > p > div > img */
+
+.segunda-sessao > div > h1 {
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  top: 120px;
+  left: 250px;
+}
+
+.segunda-sessao > div > p {
+  font-size: 28px;
+  font-family: sans-serif;
+  font-weight: 300px;
+  color: white;
+  position: relative;
+  top: 100px;
+  left: 250px;
+}
+
+.segunda-sessao > div > img {
+  position: relative;
+  top: 150px;
+  left: 300px;
+}
